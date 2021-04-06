@@ -1,0 +1,54 @@
+.bg-div {
+    border: 1px solid black;
+    background-size: cover;
+    position: relative;
+}
+.div1 {
+     width: 80%;
+     background-color: white;
+     margin-top: 229px;
+
+}
+h1{
+    color:white;
+    font-size: 48px;
+    text-align: left;
+}
+.h1div {
+    margin-left:310px;
+    margin-top: 155px;
+    margin-right: 601px;
+}
+.btn1 {
+    margin-left:310px;
+    margin-top: 49px;
+    margin-right: 601px;
+}
+ul{
+    list-style-type: none;
+}
+.s2d1 {
+    padding-top:83px;
+    padding-left:35px
+}
+.s2d2 {
+    max-width: 640px;
+}
+.s2d3 {
+    max-width: 640px;
+}
+.s2h1{
+      color: white;
+      margin: 105px 51px 0px 370px;
+}
+.btn2{
+    margin:55px 51px 60px 370px;
+     border-radius:40px ;
+}
+.s2h2{
+    color: white;
+    margin: 105px 41px 0px 370px;
+}
+.s3d1{
+    padding:90px ;
+}
